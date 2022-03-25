@@ -35,28 +35,28 @@
   <img alt="Made by Jailson Lins" src="https://img.shields.io/badge/Acessar%20Layout-FIGMA-green">
 </a>
 
-<h3 align="left" id="layout">Versão Mobile e Web Responsivos</h3>
-
-<p align="center">
-
-  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/11697713/160186727-16fab8ff-f1ca-423a-bcf3-ec3f577c268f.gif)
-
-</p>
+<h3 align="left" id="layout">Versão Web Responsivo</h3>
 
 <p align="center">
   <img alt="Home da aplicação World Trip" title="#Home da aplicação World Trip" src="./src/assets/9.jpg" width="700px">
   <hr color="white">
-
+</p>
+<p align="center">
   <img alt="Continente Europeu" title="Continente Europeu" src="./src/assets/10.jpg" width="700px">
   <hr color="white">
-
+</p>
+<p align="center">
   <img alt="Continente da Oceania" title="Continente da Oceania" src="./src/assets/11.jpg" width="700px">
   <hr color="white">
-
+</p>
+<p align="center">
   <img alt="Continente Americano" title="Continente Americano" src="./src/assets/12.jpg" width="700px">
   <hr color="white">
 </p>
 
+<h3 align="left" id="layout">Versão Mobile Responsivo</h3>
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/11697713/160186727-16fab8ff-f1ca-423a-bcf3-ec3f577c268f.gif)  
 
 <h3 align="left" id="tecnologias">🛠 Tecnologias</h3>
 <p align="justify">As seguintes Tecnologias e APIS que foram usadas na construção do projeto</p>
