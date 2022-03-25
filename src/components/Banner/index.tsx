@@ -1,6 +1,8 @@
 import { Box, Flex, Heading, Text, Image } from '@chakra-ui/react'
+import { ContinentProps } from '../../pages'
 
-export function Banner() {
+
+export function Banner({ continents }: ContinentProps) {
   return (
     <Flex
       w="100%"
@@ -24,7 +26,7 @@ export function Banner() {
             color="light.500"
             fontSize={["xl", "2l", "2xl", "2xl", "4xl"]}
           >
-            5 Continentes, <br /> infinitas possibilidades.
+            {continents.length} Continentes, <br /> infinitas possibilidades.
           </Heading>
           <Text
             fontWeight="400"

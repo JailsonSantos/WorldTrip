@@ -1,7 +1,6 @@
 import { Flex, Text, Image, Icon } from '@chakra-ui/react'
 import { useBreakpointValue } from '@chakra-ui/media-query'
 
-
 import { RiCheckboxBlankCircleFill } from "react-icons/ri";
 
 interface CharacteristicProps {
